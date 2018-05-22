@@ -14,10 +14,10 @@
 - Formulário de newsletter não deve enviar, mas os campos devem ser impressos no console.log;
 
 ### Layout Desktop:
-![Desktop](endereco-desktop)
+![Desktop](https://github.com/agenciaopera/frontend-developer/blob/master/opera-layout.png)
 
 ### Layout Mobile:
-![Mobile](endereco-mobile)
+![Mobile](https://github.com/agenciaopera/frontend-developer/blob/master/opera-layout-mobile.png)
 
 
 ## Sobre tecnologias:
