@@ -1,3 +1,17 @@
+## Passo a passo
+ - Dê um fork no repositório
+
+ - Clone o repo para o seu local
+
+ - Crie uma branch com o seu nome (Ex.: victor-magalhaes)
+
+ - Crie uma pasta com o mesmo nome da branch e a use para desenvolver o projeto
+
+ - Commit o projeto e dê o push para sua branch
+ 
+ - Finalize com o pull request da sua branch
+
+
 ## Sobre o Layout:
 - Site é onepage (animando os itens para cada sessão sem sair ou dar refresh);
 
